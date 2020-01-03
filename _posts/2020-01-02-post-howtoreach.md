@@ -1,5 +1,5 @@
 ---
-title: "2020 Momentum"
+title: "돈 버는 습관"
 excerpt_separator: "<!--more-->"
 categories:
   - Momentum
