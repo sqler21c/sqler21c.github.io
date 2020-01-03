@@ -27,7 +27,7 @@ tags:
 이럴 때는 #!/usr/bin/env python를 사용해야 합니다.
 <pre>
 #!/usr/bin/env python
-import sys
+import sys    
 print("python version: %s"%sys.version_info[0])
 </pre>
 먼저 테스트를 해볼께요. 현재 저의 환경변수는 파이썬3로 설정되어있습니다.
