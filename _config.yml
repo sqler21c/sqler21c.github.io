@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "UTF-8"   #"en-US"
+locale                   : "ko-KR"   #"en-US"
 title                    : "오리도 지랄하면 날 수 있다!!" #"Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -23,12 +23,12 @@ name                     : "날뫼"  #"Your Name"
 description              : "An amazing website."
 url                      : "https://sqler21c.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # "the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sqler21c/sqler21c.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 400 # 200
+words_per_minute         : 200 # 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -65,9 +65,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "날뫼" #"Your Name"
+  name             : "날뫼 김선구(Kim Sun Ghu)" #"Your Name"
   avatar           : "/assets/images/che.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "I'm here!!!"
+  bio              : "Slowly but **Steadily**"
+  location         : "Seoul, Korea"
   email            : "sqler21c@gmail.com"
   links:
     - label: "Email"
@@ -124,10 +124,10 @@ author:
       url: "https://twitter.com/sqler"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/sunghu.kim"
+      url: "sunghu.kim" # "https://www.facebook.com/sunghu.kim"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/sqler21c"
+      url: "sqler21c"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -222,7 +222,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Seoul" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -289,6 +289,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
