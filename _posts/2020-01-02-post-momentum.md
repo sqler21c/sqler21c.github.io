@@ -4,22 +4,12 @@ excerpt_separator: "<!--more-->"
 categories:
   - Momentum
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Momentum
 ---
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 ```
 "하나의 목표를 중단 없이 쫓는 그것이 바로 성공의 비결이다."  
 --안나 파블로바--
 ```
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 누구나 할 수 있는 일을 꾸준히 하는 건 누구나 할 수 없는 일이다. 근성 하나만 있어도 비범한 사람이 될 수 있다. 성실함은 똑똑함보다 훌륭한 재능이지만, 많은 사람이 이걸 가볍게 여긴다. 머리 좋게 태어나는 것보다 중요한 건 매사 성실히 노력하는 태도다.
 
 ## 1. 잘하려 노력하지 마라
