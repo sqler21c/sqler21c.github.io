@@ -4,9 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Python
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Python
+  - Exception
 ---
 
 ## Exception?
