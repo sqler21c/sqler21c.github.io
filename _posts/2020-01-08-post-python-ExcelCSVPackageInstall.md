@@ -1,11 +1,13 @@
 ---
-title: "Python-Read/Write Excel, CSV and Package install "
+title: "Python-Read/Write Excel, CSV and Package Install "
 excerpt_separator: "<!--more-->"
 categories:
   - Python
 tags:
   - Python
-  - Exception
+  - Excel
+  - CSV
+  - Package
 ---
 ## csv읽기
 ``` python
