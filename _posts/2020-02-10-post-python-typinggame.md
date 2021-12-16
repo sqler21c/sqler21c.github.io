@@ -21,7 +21,7 @@ import winsound
 import sqlite3
 import datetime
 
-# db 생성 & auto commit
+# db 생성 & auto commits
 # 본인 db 경로 설정
 
 conn = sqlite3.connect('./src/resource/records.db', isolation_level=None)
