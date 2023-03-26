@@ -10,7 +10,7 @@ tags:
   - IaaS
 ---
 
-클라우드 컴퓨팅 환경이 널리 보급되면서 대기업 및 중소기업 
+클라우드 컴퓨팅 환경이 널리 보급되면서 대기업 및 중소기업 <br>
 모두 기존 온프레미스 IT솔루션 대신 *aaS(as-a-Service)* 형태로 
 제공되는 Software, Platform, Computing Infrastructure로 전환하기 시작함
 
