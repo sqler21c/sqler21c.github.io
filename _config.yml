@@ -20,7 +20,7 @@ title                    : "오리도 지랄하면 날 수 있다!!" #"Site Titl
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "날뫼"  #"Your Name"
-description              : "An amazing website."
+description              : "Nerver Stop Learning"
 url                      : "https://sqler21c.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # "the subpath of your site, e.g. "/blog"
 repository               : "sqler21c/sqler21c.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
