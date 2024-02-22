@@ -1,5 +1,5 @@
 ---
-title: "2023/03/27 나이가 들어감에 의사소통도 구식이되어 버리는....."
+title: "허위가 진실이 되어 버렸다"
 excerpt_separator: "<!--more-->"
 categories:
   - Thinking
